@@ -1,4 +1,6 @@
-# Dropbox Upload App
+# Chrome Extension to upload file in Dropbox and get sharable link
+
+
 
 ## Overview
 
